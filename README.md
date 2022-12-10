@@ -26,9 +26,8 @@ Flutter run
 
 https://github.com/FKdevelopers254/FlutterLoginSignUpSignOutUIFirebase.git
 
-<img src="https://user-images.githubusercontent.com/65674370/206843057-d8522685-a5c5-44a3-9e3f-3191eacc85f7.jpg" width="50" height="40">
+<img src="https://user-images.githubusercontent.com/65674370/206843057-d8522685-a5c5-44a3-9e3f-3191eacc85f7.jpg" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/65674370/206843058-12e87f3b-e3a6-428f-9db0-0a730986fc4e.jpg" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/65674370/206843055-f16c5d51-e8a4-4cd2-adb7-839dc8aedc08.jpg" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/65674370/206843059-05415658-69da-4495-b575-5484a8581af6.jpg" width="150" height="150">
 
-![loginpage]()
-![homepage](https://user-images.githubusercontent.com/65674370/206843058-12e87f3b-e3a6-428f-9db0-0a730986fc4e.jpg)
-![forgotpasswordpage](https://user-images.githubusercontent.com/65674370/206843055-f16c5d51-e8a4-4cd2-adb7-839dc8aedc08.jpg) 
-![registerpage](https://user-images.githubusercontent.com/65674370/206843059-05415658-69da-4495-b575-5484a8581af6.jpg)
