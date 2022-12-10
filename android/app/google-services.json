@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289418142808",
+    "project_id": "authflutterapp-cbd4b",
+    "storage_bucket": "authflutterapp-cbd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289418142808:android:c6dbe51ce0c0f65331562d",
+        "android_client_info": {
+          "package_name": "com.example.server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289418142808-7f4hige5bopr05i2ps78bki3a546jlr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs20-AIxJIdlP20LL3Yr3iHySRGUNADiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289418142808-7f4hige5bopr05i2ps78bki3a546jlr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
