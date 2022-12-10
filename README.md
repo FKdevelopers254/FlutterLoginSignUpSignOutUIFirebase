@@ -26,7 +26,7 @@ Flutter run
 
 https://github.com/FKdevelopers254/FlutterLoginSignUpSignOutUIFirebase.git
 
-<img src="https://user-images.githubusercontent.com/65674370/206843057-d8522685-a5c5-44a3-9e3f-3191eacc85f7.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/65674370/206843057-d8522685-a5c5-44a3-9e3f-3191eacc85f7.jpg" width=50% height=20%>
 
 ![loginpage]()
 ![homepage](https://user-images.githubusercontent.com/65674370/206843058-12e87f3b-e3a6-428f-9db0-0a730986fc4e.jpg)
