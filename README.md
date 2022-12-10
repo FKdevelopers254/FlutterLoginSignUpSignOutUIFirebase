@@ -1,9 +1,9 @@
 # Flutter Firebase Authentication Login/Logout System
 
 You will be able to:
--Sign Up using desired email before accessing the homepage
+- Sign Up using desired email before accessing the homepage
 - Login/Logout using Firebase Authentication
--Working Forgot Password Link
+- Working Forgot Password Link
 
 ## Getting Started
 
