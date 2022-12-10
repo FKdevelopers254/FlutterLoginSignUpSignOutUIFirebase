@@ -1,16 +1,21 @@
-# server
+# Flutter Firebase Authentication Login/Logout System
 
-Login,create ,store data
+You will be able to:
+-Sign Up using desired email before accessing the homepage
+- Login/Logout using Firebase Authentication
+-Working Forgot Password Link
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Dependencies
+ - google_fonts: ^3.0.1
+ - firebase_auth: ^4.1.4
+ - firebase_core: ^2.3.0
+ - firebase_auth_oauth: ^1.2.2
+ - cloud_firestore: ^4.1.0
+  
+  
+Flutter clean
+Flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/FKdevelopers254/FlutterLoginSignUpSignOutUIFirebase.git
